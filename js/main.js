@@ -7,8 +7,8 @@ const slider = document.querySelector('.slider');
 M.Slider.init(slider, {
     indicators: false,
     height: 500,
-    transition: 500,
-    interval: 6000
+    transition: 500000000000,
+    interval: 60000000000
   });
 
 // Scrollspy
