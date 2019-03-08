@@ -27,6 +27,10 @@ body {
   box-shadow: none;
 }
 
+.white-text {
+  background: teal;
+}
+
 .slider .btn {
   margin-top: 20px;
 }
