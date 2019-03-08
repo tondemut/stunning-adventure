@@ -28,7 +28,8 @@ body {
 }
 
 .white-text {
-  background: teal;
+  display: inline-block;
+  background-color: black;
 }
 
 .slider .btn {
